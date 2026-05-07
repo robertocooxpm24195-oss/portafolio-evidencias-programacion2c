@@ -1,13 +1,11 @@
-#funciones basicas
 def suma(a,b):
     return a + b
 
 def resta(a,b):
     return a - b
 
-def multi(a,b):
+def multiplicacion(a,b):
     return a * b
 
-def div(a,b):
+def divicion(a,b):
     return a / b
-
