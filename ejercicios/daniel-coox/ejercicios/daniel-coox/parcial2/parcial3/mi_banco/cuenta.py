@@ -2,7 +2,7 @@
 class cuenta:
     """Representa una cuenta bancaria con operaciones básicas de depósito y retiro."""
 
-    def __init__(self, cliente, cuenta, saldo=0):
+    def _init_(self, cliente, cuenta, saldo=0):
         """cliente: nombre del clientenombre del dueño de la cuenta
          cuenta: número de cuenta
         saldo: dinero inicial, por defecto 0"""
